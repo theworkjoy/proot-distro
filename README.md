@@ -1,3 +1,4 @@
+[![Build](https://github.com/theworkjoy/proot-distro/actions/workflows/build.yml/badge.svg)](https://github.com/theworkjoy/proot-distro/actions/workflows/build.yml)
 # PRoot Distro
 
 A Bash script wrapper for utility [proot] for easy management of chroot-based
